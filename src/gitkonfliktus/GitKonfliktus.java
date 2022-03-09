@@ -7,10 +7,12 @@ public class GitKonfliktus {
         
         String nev1;
         String nev2;
+        String nev3;
         
         nev1 = "SzM";
         nev2 = "xy";
 
+        
     }
     
 }

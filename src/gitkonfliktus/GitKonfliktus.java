@@ -11,8 +11,6 @@ public class GitKonfliktus {
         String nev2;
         String nev3;
         
-        int nev3;
-        
         nev1 = "SzM";
         nev2 = "xy";
 

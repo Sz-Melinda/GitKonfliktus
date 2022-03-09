@@ -9,6 +9,8 @@ public class GitKonfliktus {
         String nev2;
         
         nev1 = "SzM";
+        nev2 = "xy";
+
     }
     
 }

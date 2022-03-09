@@ -7,6 +7,8 @@ public class GitKonfliktus {
         
         String nev1;
         String nev2;
+        
+        nev2 = "xy";
     }
     
 }
